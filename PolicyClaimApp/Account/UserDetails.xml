@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDetails>
+  <user>
+    <UserName>shubham</UserName>
+    <Email>ss@s.com</Email>
+    <Mobile>7898007878</Mobile>
+    <UserRole>2</UserRole>
+    <Password>123456</Password>
+  </user>
+  <user>
+    <UserName>sachin</UserName>
+    <Email>afs@a.com</Email>
+    <Mobile>9546522132</Mobile>
+    <UserRole>2</UserRole>
+    <Password>123</Password>
+  </user>
+  <user>
+    <UserName>sahil</UserName>
+    <Email>abc@g.com</Email>
+    <Mobile>9632587412</Mobile>
+    <UserRole>3</UserRole>
+    <Password>147</Password>
+  </user>
+</UserDetails>

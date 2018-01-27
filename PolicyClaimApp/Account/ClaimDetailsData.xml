@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PolicyClaims>
+  
+<book><Name>abc</Name><Policy>aa</Policy><Email>a@a.com</Email></book><book><Name>sachin</Name><Policy>787987654</Policy><Email>aas@a.com</Email></book><book><Name>aa</Name><Policy></Policy><Email>aa@a.com</Email></book></PolicyClaims>
